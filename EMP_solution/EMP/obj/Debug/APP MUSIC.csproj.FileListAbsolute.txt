@@ -1,0 +1,124 @@
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\bin\Debug\EMP.exe.config
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\bin\Debug\EMP.exe
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\bin\Debug\EMP.pdb
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\bin\Debug\ColorSlider.dll
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\bin\Debug\MACTrackBarLib.dll
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\bin\Debug\Interop.MSVidCtlLib.dll
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\bin\Debug\Interop.WMPLib.dll
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\Interop.MSVidCtlLib.dll
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\Interop.WMPLib.dll
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\APP MUSIC.csproj.ResolveComReference.cache
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\EMP.MainForm.resources
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\EMP.Forms.PlaylistForm.resources
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\EMP.Properties.Resources.resources
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\EMP.Settings.SettingsForm.resources
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\APP MUSIC.csproj.GenerateResource.cache
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\APP MUSIC.csproj.CoreCompileInputs.cache
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\APP MUSIC.csproj.CopyComplete
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\EMP.exe
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\EMP.pdb
+C:\Users\K3N\Desktop\EMP\EMP_solution\EMP\obj\Debug\APP MUSIC.csprojAssemblyReference.cache
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\bin\Debug\EMP.exe.config
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\bin\Debug\EMP.exe
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\bin\Debug\EMP.pdb
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\bin\Debug\ColorSlider.dll
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\bin\Debug\MACTrackBarLib.dll
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\bin\Debug\Interop.MSVidCtlLib.dll
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\bin\Debug\Interop.WMPLib.dll
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\APP MUSIC.csprojAssemblyReference.cache
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\Interop.MSVidCtlLib.dll
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\Interop.WMPLib.dll
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\APP MUSIC.csproj.ResolveComReference.cache
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\EMP.MainForm.resources
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\EMP.Forms.PlaylistForm.resources
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\EMP.Properties.Resources.resources
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\EMP.Settings.SettingsForm.resources
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\APP MUSIC.csproj.GenerateResource.cache
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\APP MUSIC.csproj.CoreCompileInputs.cache
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\APP MUSIC.csproj.CopyComplete
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\EMP.exe
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\EMP.pdb
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\EMP.LoginForm.resources
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\EMP.RegForm.resources
+C:\Users\K3N\Desktop\C#_Project\EMP_solution\EMP\obj\Debug\EMP.Forms.AboutForm.resources
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\EMP.exe.config
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\EMP.exe
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\EMP.pdb
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ColorSlider.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\FontAwesome.Sharp.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\MACTrackBarLib.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\Interop.MSVidCtlLib.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\Interop.WMPLib.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\AxInterop.MSVidCtlLib.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\AxInterop.WMPLib.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\Interop.MSVidCtlLib.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\Interop.WMPLib.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\AxInterop.MSVidCtlLib.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\AxInterop.WMPLib.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\APP MUSIC.csproj.ResolveComReference.cache
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\EMP.Forms.AboutForm.resources
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\EMP.MainForm.resources
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\EMP.Forms.PlaylistForm.resources
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\EMP.LoginForm.resources
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\EMP.Properties.Resources.resources
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\EMP.Settings.SettingsForm.resources
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\EMP.RegForm.resources
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\APP MUSIC.csproj.GenerateResource.cache
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\APP MUSIC.csproj.CoreCompileInputs.cache
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\APP MUSIC.csproj.CopyComplete
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\EMP.exe
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\EMP.pdb
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\APP MUSIC.csprojAssemblyReference.cache
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\EMP.Forms.frmManagement.resources
+D:\Draft\huyduc\C#_Project\EMP_solution\EMP\obj\Debug\EMP.Forms.frmEditDataUser.resources
