@@ -367,7 +367,7 @@ namespace EMP
         {
             //foCUS.Focus();
             PlaylistForm pf = new PlaylistForm();
-            this.Hide();
+            this.Close();
 
             if (pf.ShowDialog() == DialogResult.OK)
             {
@@ -391,6 +391,7 @@ namespace EMP
 
         private void About_option_cms_Click(object sender, EventArgs e)
         {
+            this.Close();
             AboutForm Aboutfrm = new AboutForm();
             Aboutfrm.Show();
         }
@@ -693,6 +694,7 @@ namespace EMP
 
         private void btnAbout_Click(object sender, EventArgs e)
         {
+            this.Close();
             AboutForm Aboutfrm = new AboutForm();
             Aboutfrm.Show();
         }
@@ -721,6 +723,11 @@ namespace EMP
         {
             this.Close();
             frmManagement.Instance.Show();
+        }
+
+        private void MainForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.Player_wmp.Ctlcontrols.stop();
         }
     }
 }
