@@ -34,7 +34,7 @@ namespace EMP.Forms
             {
                 if (this.txtPassword.Text.Length >= 6)
                 {
-                    UserDAL.Instance.updateUser(Constant.id, txtPassword.Text);
+                    UserDAL.Instance.updateUser(Constant.temp_id, txtPassword.Text);
                     this.Close();
                     frmManagement.Instance.Show();
                 }
@@ -70,7 +70,7 @@ namespace EMP.Forms
             if (Constant.update.Equals("UPDATE"))
             {
                 this.txtUsername.ReadOnly = true;
-                this.txtUsername.Text = Constant.user_name;
+                this.txtUsername.Text = Constant.temp_user;
                 this.txtPassword.Focus();
             }
             else
@@ -88,7 +88,6 @@ namespace EMP.Forms
 
         private void txtPassword_Enter(object sender, EventArgs e)
         {
-            btnSave_Click(sender, e);
         }
     }
 }

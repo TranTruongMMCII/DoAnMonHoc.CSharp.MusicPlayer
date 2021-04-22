@@ -19,7 +19,6 @@ namespace EMP.Forms
         List<string> song_url = new List<string>();
         int rowIndex = -1;
         bool isClick = false;
-        int pos = 0;
         WMPLib.IWMPPlaylist playlist;
         public PlaylistForm()
         {

@@ -65,7 +65,7 @@ namespace EMP
             }
         }
 
-        public static MainForm Instance { get => instance == null ? new MainForm() : instance; }
+        public static MainForm Instance { get => instance ?? new MainForm(); }
 
         #endregion
 
@@ -719,7 +719,7 @@ namespace EMP
 
         private void btnManagement(object sender, EventArgs e)
         {
-            this.Hide();
+            this.Close();
             frmManagement.Instance.Show();
         }
     }

@@ -169,7 +169,7 @@ namespace EMP.Forms
         private void button1_Click(object sender, EventArgs e)
         {
             Constant.update = "CREATE";
-            this.Hide();
+            this.Close();
             frmEditDataUser.Instance.Show();
         }
 
@@ -183,9 +183,9 @@ namespace EMP.Forms
             }
             else
             {
-                Constant.id = Convert.ToInt32(dataRow.Cells[1].Value);
-                Constant.user_name = dataRow.Cells[2].Value.ToString();
-                this.Hide();
+                Constant.temp_id = Convert.ToInt32(dataRow.Cells[1].Value);
+                Constant.temp_user = dataRow.Cells[2].Value.ToString();
+                this.Close();
                 frmEditDataUser.Instance.Show();
             }
         }

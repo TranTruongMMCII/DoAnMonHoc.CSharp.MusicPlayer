@@ -13,5 +13,7 @@ namespace EMP.Classes
         public static string update = "UPDATE";
         public static string password = "";
         public static bool isAdmin = false;
+        public static int temp_id = 0;
+        public static string temp_user = "";
     }
 }
